@@ -6,5 +6,6 @@ public class FlightBooking {
 		String s1="Laxmi";
 	int a =-10;
 	System.out.println(" this is hema");
+	
 	}
 }
